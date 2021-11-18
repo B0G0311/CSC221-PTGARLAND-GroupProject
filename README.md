@@ -1,4 +1,4 @@
-# Linux_Distro_Archive
+# Dataframe for Collection of Linux Distrobutions
 Group Project for CSC221 2021 FA
 
 
