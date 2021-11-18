@@ -1,4 +1,4 @@
-# Linux_Distro_Archive_DF
+# Linux_Distro_Archive
 Group Project for CSC221 2021 FA
 
 
