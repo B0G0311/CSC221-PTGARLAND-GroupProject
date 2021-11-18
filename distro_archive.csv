@@ -1,0 +1,319 @@
+,Distribution,Base,Description
+0,Red Hat Linux,RPM-based,Split into 
+1,CentOS,RPM-based,Community-supported Linux distribution designed as an OpenSource version of RHEL and well suited for servers. Now sponsored by 
+2,Fedora,RPM-based,Community-supported Linux distribution sponsored by 
+3,openSUSE,RPM-based,"A community-developed Linux distribution, sponsored by "
+4,Mandrake Linux,RPM-based,The first release was based on Red Hat Linux (version 5.1) and 
+5,AlmaLinux,CentOS/RHEL-based,A 100% community owned and governed alternative 
+6,Asianux,CentOS/RHEL-based,A Linux distribution co-developed between 
+7,ClearOS,CentOS/RHEL-based,"A Linux distribution designed for use in small and medium enterprises.
+"
+8,Fermi Linux LTS,CentOS/RHEL-based,Based on Scientific Linux.
+9,Miracle Linux,CentOS/RHEL-based,"Developed by Japanese software vendor Miracle Linux Co., Ltd
+"
+10,Oracle Linux,CentOS/RHEL-based,Supported by 
+11,Red Flag Linux,CentOS/RHEL-based,"A Linux distribution developed in China and optimized for the Chinese market. Based on Asianux.
+"
+12,Rocks Cluster Distribution,CentOS/RHEL-based,"A Linux distribution for building a High-Performance Computing computer cluster, with a recent release supporting Cloud computing. It is based on "
+13,Rocky Linux,CentOS/RHEL-based,"A Linux distribution that is currently in development by the CentOS founder, Gregory Kurtzer, aims to be compatible with Red Hat Enterprise Linux.
+"
+14,Scientific Linux,CentOS/RHEL-based,A discontinued Linux distribution co-developed by 
+15,Amazon Linux 2,CentOS/RHEL-based,Amazon Linux 2 is available as an 
+16,Berry Linux,Fedora-based,"A medium-sized Fedora-based distribution that provides support in Japanese and English.
+"
+17,BLAG Linux and GNU,Fedora-based,"A completely free software distribution.
+"
+18,EnGarde Secure Linux,Fedora-based,Server-only Linux distribution designed to be secure.
+19,Fuduntu,Fedora-based,"Designed to fit in somewhere between Fedora and Ubuntu.
+"
+20,Hanthana,Fedora-based,"Designed to cater the needs of Sri Lankan computer users who are unable to access Internet frequently, with many most-wanted applications built in.
+"
+21,Korora,Fedora-based,"Initially aimed at easy installation of a Gentoo system by using install scripts instead of manual configuration. Now based on Fedora.
+"
+22,Linpus Linux,Fedora-based,"Focused on the Chinese market, along with Linpus Lite focused on the "
+23,Linux XP,Fedora-based,Fedora-based shareware distribution designed to imitate the Windows environment using 
+24,MeeGo,Fedora-based,"Built by Intel and Nokia, intended for mobile phones (mainly "
+25,Moblin,Fedora-based,"Built around the Intel Atom processor; supplanted by Meego when Intel and (temporarily) Nokia combined activities
+"
+26,Network Security Toolkit,Fedora-based,"A Live CD/DVD with security and networking tools to perform routine security and networking diagnostic and monitoring tasks.
+"
+27,Qubes OS,Fedora-based,"Focused on security for desktop users. Based on an ""ancient"" Fedora release which we are somewhere said it to upgrade under "
+28,Red Star OS,Fedora-based,"Red Star OS (Korean: 붉은별; MR: Pulgŭnbyŏl) is a North Korean Linux distribution, with development first starting in 1998 at the Korea Computer Center (KCC). It is offered only in a Korean language edition, localized with North Korean terminology and spelling.
+"
+29,Russian Fedora Remix,Fedora-based,"A remix of Fedora.
+"
+30,Sugar-on-a-Stick Linux,Fedora-based,"An educational operating system, originally designed for the "
+31,Trustix,Fedora-based,A Linux distribution focused on security.
+32,Yellow Dog Linux,Fedora-based,For the 
+33,SUSE Linux Enterprise Desktop,openSUSE-based,Previously branded Novell Linux Desktop. A desktop-oriented Linux distribution supplied by 
+34,SUSE Linux Enterprise Server,openSUSE-based,A server-oriented Linux distribution supplied by 
+35,SUSE Studio,openSUSE-based,SuSE studio is the 
+36,GeckoLinux,openSUSE-based,A distribution with a focus on polish and out-of-the-box desktop usability. It is available in 
+37,Mandriva Linux,urpmi,"Open-source distribution (with exceptions), discontinued in 2011.
+"
+38,Mageia,urpmi,"A community Linux distribution initially forked from Mandriva Linux in response to the discontinuation of free versions of Mandriva Linux.
+"
+39,ROSA Linux,urpmi,"A Russian distribution available in three different editions: ROSA Desktop Fresh, ROSA Enterprise Desktop and ROSA Enterprise Linux Server, with the latter two aiming at commercial users. Its desktop editions come bundled with "
+40,OpenMandriva,urpmi,"The last release of Mandriva Linux was in August 2011. Most developers who were laid off went to Mageia.[5] Later on, the remaining developers teamed up with community members and formed OpenMandriva, a continuation of Mandriva.
+"
+41,Unity Linux,urpmi,"Meant to be a base for custom distributions.
+"
+42,PCLinuxOS,apt-rpm,A 
+43,Vine Linux,apt-rpm,"A Japanese distribution originally based on Red Hat Linux.
+"
+44,ALT Linux,apt-rpm,ALT Linux is a set of 
+45,Caldera OpenLinux,Independent RPM distributions,A Linux distribution originally introduced by 
+46,cAos Linux,Independent RPM distributions,"A general purpose Linux distribution. Designed to have low overhead, run on older hardware, and be easily customizable.
+"
+47,Turbolinux,Independent RPM distributions,"Originally based on Red Hat Linux.
+"
+48,Astra Linux,Debian-based,A distribution developed for the 
+49,Bharat Operating System Solutions,Debian-based,An Indian Linux distribution
+50,Canaima,Debian-based,A Venezuelan Linux distribution.
+51,Corel Linux,Debian-based,"Short-lived commercial desktop Linux distribution, bought by "
+52,CrunchBang Linux,Debian-based,"A small Linux Distro and Live CD based on Debian Stable, featuring the "
+53,Deepin,Debian-based,"A Debian-based Chinese Linux Distribution developed by Wuhan Deepin Technology Co.
+"
+54,Devuan,Debian-based,A fork of Debian begun in 2014 with the primary goal of allowing user choice in 
+55,Dreamlinux,Debian-based,"A discontinued Brazilian Linux distribution.
+"
+56,Emdebian Grip,Debian-based,"A small-footprint Linux distribution based on and compatible with Debian, intended for use on resource-limited embedded systems."
+57,Finnix,Debian-based,A small system-administration Live CD that is available for multiple architectures
+58,gNewSense,Debian-based,Originally based on 
+59,grml,Debian-based,Live CD for system recovery
+60,HandyLinux,Debian-based,Designed for 
+61,Kanotix,Debian-based,"An installable live DVD/CD for desktop usage using KDE and LXDE, focusing on convenient scripts and GUI for ease of use."
+62,Knoppix,Debian-based,The first Live CD (later DVD) version of 
+63,Kurumin,Debian-based,"Earlier, it was a version of the Knoppix distribution, modified with Debian and designed for "
+64,LEAF Project,Debian-based,"The Linux Embedded Appliance Framework. A tiny primarily floppy-based distribution for routers, firewalls and other appliances."
+65,LiMux,Debian-based,An 
+66,LMDE,Debian-based,A Debian-based version of 
+67,Maemo,Debian-based,A development platform for hand held devices such as the 
+68,MEPIS,Debian-based,Focuses on ease of use. Also includes a lightweight variant called antiX. antiX is meant to be used on older computers with limited hardware. There is also a Xfce distro called 
+69,MintPPC,Debian-based,"For PowerPC computers. Although MintPPC uses some Linux Mint Debian Edition code, it is not Linux Mint."
+70,Musix GNU+Linux,Debian-based,"Intended for music production, graphic design, audio, video editing, and other tasks. It is built with only "
+71,NepaLinux,Debian-based,A Debian- and Morphix-based distribution focused for desktop usage in Nepali language computing.
+72,OpenZaurus,Debian-based,Debian packages and ROM image for the 
+73,Pardus,Debian-based,Developed by 
+74,PelicanHPC,Debian-based,Dedicated to setting up a 
+75,Q4OS,Debian-based,A 
+76,Raspberry Pi OS,Debian-based,"Desktop-oriented distribution, formerly called Raspbian. Developed by the "
+77,Sacix,Debian-based,Sacix is a 
+78,Skolelinux,Debian-based,"A Linux distribution from Norway, now the basepoint for and now synonymous to Debian EDU. It provides as a "
+79,Slax,Debian-based,"A lightweight Linux distribution now based on Debian, for low-powered computers. Its download size is about 300 MB, almost the same as Puppy Linux's. It can run from RAM, from Live CD, USB or hard drive. It was previously based on Slackware.
+"
+80,SolydXK,Debian-based,Xfce
+81,SparkyLinux,Debian-based,"A Debian-based Linux distribution which provides ready to use, out of the box operating system with a set of slightly customized lightweight desktops. Sparky is targeted to all the computer's users who want replace existing, proprietary driven OS to an open-sourced..
+"
+82,Sunwah Linux,Debian-based,A Chinese Linux distribution
+83,The Amnesic Incognito Live System,Debian-based,"The Amnesic Incognito Live System' or Tails is aimed at preserving privacy and anonymity, with all outgoing connections forced to go through "
+84,TurnKey GNU/Linux,Debian-based,"Open source project developing a family of free, Debian-based appliances optimized for ease of use in server-type usage scenarios."
+85,Twister OS,Debian-based,Raspberry Pi OS
+86,Ubuntu,Debian-based,A 
+87,Univention Corporate Server,Debian-based,"Enterprise distribution with integrated IT infrastructure and identity management system by the company Univention GmbH, Germany. A full version for up to 5 users for tests and for private use can be downloaded for free."
+88,Webconverger,Debian-based,Debian Live
+89,Vyatta,Debian-based,"Commercial open source network operating system includes routing, firewall, VPN, intrusion prevention and more. Designed to be an open source Cisco replacement."
+90,VyOS,Debian-based,"Free routing platform. Because VyOS is run on standard amd64, i586 and ARM systems, it is able to be used as a router and firewall platform for cloud deployments.
+"
+91,BackTrack,Debian-based (security-oriented),Developed by Offensive Security and designed for penetration testing.
+92,gLinux,Debian-based (security-oriented),gLinux is a 
+93,Kali Linux,Debian-based (security-oriented),"Made to be a completely customizable OS, used for penetration testing. It is based on Debian GNU/Linux and is used mostly by security experts"
+94,Parsix,Debian-based (security-oriented),Optimized for personal computers and laptops. Built on top of Debian testing branch and comes with security support.
+95,PureOS,Debian-based (security-oriented),"A GNU/Linux distribution based on Debian with a focus on privacy, security, and convenience."
+96,Astra Linux,Debian-based (security-oriented),"A Russian Linux-based computer operating system developed to meet the needs of the Russian army, other armed forces and intelligence agencies."
+97,Parrot OS,Debian-based (security-oriented),"A Linux distribution based on Debian used by penetration testers.
+"
+98,antiX,MEPIS-based,"It is comparatively lightweight and suitable for older computers, while also providing "
+99,MX Linux,MEPIS-based,A midweight OS based on Debian Stable with core components from 
+100,Damn Small Linux,Knoppix-based,A small Linux distro designed to run on older hardware. It is commonly used on 
+101,Feather Linux,Knoppix-based,Boots from either a CD or a 
+102,Hikarunix,Knoppix-based,A Linux distribution solely for studying and playing the game of 
+103,Kubuntu,Ubuntu-based,An official derivative of Ubuntu Linux using 
+104,Lubuntu,Ubuntu-based,An official derivative of the 
+105,Ubuntu Budgie,Ubuntu-based,An official derivative of Ubuntu using 
+106,Ubuntu Kylin,Ubuntu-based,"An official derivative aimed at the Chinese market.
+"
+107,Ubuntu MATE,Ubuntu-based,An official derivative of Ubuntu using 
+108,Ubuntu Server,Ubuntu-based,An official derivative made for use in servers & 
+109,Ubuntu Studio,Ubuntu-based,"Based on Ubuntu, providing open-source applications for multimedia creation aimed at the audio, video and graphic editors."
+110,Xubuntu,Ubuntu-based,An official derivative of Ubuntu using 
+111,Edubuntu,Discontinued official distributions,A complete Linux based operating system that was targeted for 
+112,Gobuntu,Discontinued official distributions,"Gobuntu was an official derivative of the Ubuntu operating system, aiming to provide a distribution consisting entirely of "
+113,Mythbuntu,Discontinued official distributions,Based on Ubuntu and 
+114,Ubuntu for Android,Discontinued official distributions,Designed for use with 
+115,Ubuntu GNOME,Discontinued official distributions,"Formerly an official Ubuntu variant,"
+116,Ubuntu JeOS,Discontinued official distributions,"""Just Enough OS"" – was described as ""an efficient variant [...] configured specifically for "
+117,Ubuntu Mobile,Discontinued official distributions,An embedded operating system designed for use on 
+118,Ubuntu Netbook Edition,Discontinued official distributions,Netbook Edition was an official derivative of Ubuntu designed for 
+119,Ubuntu Touch,Discontinued official distributions,Designed for use with 
+120,Ubuntu TV,Discontinued official distributions,Designed for use with 
+121,BackBox,Third-party distributions,"BackBox is a Linux distribution based on Ubuntu. It has been developed to perform penetration tests and security assessments. Designed to be fast, easy to use and provide a minimal yet complete desktop environment, thanks to its own software repositories, always being updated to the latest stable version of the most used and best known ethical hacking tools."
+122,BackSlash Linux,Third-party distributions,"BackSlash Linux is an Ubuntu and Debian-based operating system for AMD64 and Intel x64 based Personal Computers developed in India. It is based on free software and every release of the operating System is named after the characters of the Disney blockbuster, "
+123,Bodhi Linux,Third-party distributions,An Ubuntu-based Linux distribution featuring the Moksha Desktop environment and targeting users who want a minimum of preinstalled software or low system requirements.
+124,Cub Linux,Third-party distributions,Ubuntu-based distribution designed to mimic the desktop appearance and functionality of 
+125,DNALinux,Third-party distributions,A small Linux distribution designed for running 
+126,dyne:bolic,Third-party distributions,Live CD
+127,EasyPeasy,Third-party distributions,Fork of Ubuntu designed for netbooks
+128,Eeebuntu,Third-party distributions,"Specifically for the Eee PC range of netbooks, based on Debian. Also rebranded as Aurora OS."
+129,Element OS,Third-party distributions,Based on 
+130,elementary OS,Third-party distributions,"A distribution focussing mainly on non-technical users, has a "
+131,Emmabuntüs,Third-party distributions,Based on 
+132,GalliumOS,Third-party distributions,GalliumOS is a 
+133,GendBuntu,Third-party distributions,A version adapted for use by 
+134,Goobuntu,Third-party distributions,An Ubuntu-based distribution that was used internally by 
+135,gOS,Third-party distributions,Used the GNOME desktop environment with user interface enhancements to make it work more like 
+136,Joli OS,Third-party distributions,"Joli OS (formerly named Jolicloud) is in development and Pre-beta testing. Joli OS is built upon Debian and Ubuntu 9.10, but is tweaked to be more suitable for computers that have weaker specifications in terms of disk storage, memory and screen size. It is designed to run on relatively low-powered netbook computers."
+137,Karoshi,Third-party distributions,A formerly 
+138,KDE neon,Third-party distributions,Focused on the development of KDE. The emphasis is on 
+139,LiMux,Third-party distributions,A project by the city council of 
+140,Linux Lite,Third-party distributions,The purpose of Linux Lite is to introduce 
+141,Linux Mint,Third-party distributions,"Linux Mint synchronizes its release-cycle with Ubuntu's long term support, and is tailored to user-friendliness for desktop users."
+142,LinuxMCE,Third-party distributions,Linux Media Center Edition
+143,LinuxTLE,Third-party distributions,A Thai Linux distribution
+144,LliureX,Third-party distributions,A distribution by the 
+145,LXLE Linux,Third-party distributions,A 
+146,MAX,Third-party distributions,Stands for 
+147,Molinux,Third-party distributions,Ubuntu based initiative to introduce the 
+148,Netrunner,Third-party distributions,"Kubuntu based distribution with complete software and codecs installed, developed by "
+149,Nova,Third-party distributions,Cuban
+150,OpenGEU,Third-party distributions,"Ubuntu based distribution with Enlightenment window manager, previously known as Geubuntu."
+151,Peppermint OS,Third-party distributions,A light-weight LXDE distribution for 
+152,Pinguy OS,Third-party distributions,An Ubuntu-based distro for people that have never used Linux before or for people that want an out-of-the-box working OS without having to tweak a fresh installation of Ubuntu or other Ubuntu-based distro.
+153,Pop!_OS,Third-party distributions,An Ubuntu-based distro developed by 
+154,Poseidon Linux,Third-party distributions,"For academic and scientific use. Based on Ubuntu, but enhanced by GIS/maps, numerical modelling, 2D/3D/4D visualization, statistics, tools for creating simple and complex graphics, programming languages.
+"
+155,Sabily,Third-party distributions,Ubuntu based distribution for Muslims (formerly Ubuntu Muslim Edition)
+156,Trisquel GNU/Linux,Third-party distributions,Fully 
+157,UberStudent,Third-party distributions,"For higher education and advanced secondary students, those who teach them, and lifelong learners"
+158,Ubuntu Unity,Third-party distributions,Using the 
+159,Ututo,Third-party distributions,"Ututo UL (""Ubuntu-Libre"") Distributes Simusol, a system to simulate Solar Energy projects, returned to the heart of the project."
+160,Vinux,Third-party distributions,A Linux distribution designed for 
+161,Zorin OS,Third-party distributions,Zorin OS is a user-friendly distribution that can emulate 
+162,ArchBang,Pacman-based,"Based on Arch Linux, but also provides Live CDs with working system and graphical installation scripts; uses "
+163,Arch Linux,Pacman-based,An 
+164,Artix Linux,Pacman-based,"Based on Arch Linux, but using "
+165,ArchLabs,Pacman-based,"Based on Arch Linux, with a custom installer, offers many choices of desktop environments and window managers.
+"
+166,BlackArch,Pacman-based,"A cybersecurity-focused OS based on Arch Linux. It is designed to test security and run penetration tests. It includes window managers preconfigured, but no desktop environment.
+"
+167,Chakra Linux,Pacman-based,"Originally derived from Arch Linux, with the latest "
+168,EndeavourOS,Pacman-based,Continuation of 
+169,Frugalware Linux,Pacman-based,"A general purpose Linux distribution designed for intermediate users. Has some influences from Slackware, and uses a heavily modified version of pacman, Pacman-G2, a fork of a "
+170,Hyperbola GNU/Linux-libre,Pacman-based,An Arch and Debian derivative without any 
+171,LinHES,Pacman-based,"LinHES (Linux Home Entertainment Server) designed for use on home theater PCs (HTPCs), providing applications for recording TV and acting as a sound and video center.
+"
+172,Manjaro,Pacman-based,"Based on Arch Linux, using its own repositories and ships with either "
+173,Parabola GNU/Linux-libre,Pacman-based,An Arch derivative without any 
+174,SteamOS,Pacman-based,Arch-based and gaming-focused distribution developed by 
+175,SystemRescue,Pacman-based,"Linux System rescue toolkit. Previously based on Gentoo, it has been based on Arch Linux since version 6.0.0
+"
+176,Calculate Linux,Portage-based,"Calculate Linux is a family of distributions.
+"
+177,Chrome OS,Portage-based,Chrome OS
+178,Chromium OS,Portage-based,Chromium OS
+179,Clip OS,Portage-based,Created by 
+180,Container Linux,Portage-based,Linux distribution by 
+181,Knopperdisk,Portage-based,"A Linux distribution aimed at USB sticks.
+"
+182,Pentoo,Portage-based,"Penetration-testing Live CD.
+"
+183,Sabayon Linux,Portage-based,Made in 
+184,Tin Hat Linux,Portage-based,"Based on hardened Gentoo, this distribution is based primarily on security.
+"
+185,Ututo,Portage-based,Made in 
+186,Slackware,Slackware-based,Slackware
+187,Absolute Linux,Slackware-based,Absolute Linux
+188,Austrumi Linux,Slackware-based,A 108 MB bootable 
+189,Frugalware Linux,Slackware-based,"A general-purpose Linux distribution designed for intermediate users who are familiar with command-line operations. Early versions were based on Slackware, but it is now an independently developed distribution.
+"
+190,KateOS,Slackware-based,A desktop distribution aimed at intermediate users. It uses 
+191,MuLinux,Slackware-based,"Floppy-based Linux distribution with replaceable modules
+"
+192,NimbleX,Slackware-based,"Completely customizable through the NimbleX website. Now no longer producing new versions.
+"
+193,Platypux,Slackware-based,"A French Linux distribution of the Slackware family
+"
+194,Salix OS,Slackware-based,"Originally a fork of Zenwalk, Salix is a complete Linux distribution fully backwards compatible with Slackware. It uses "
+195,Sentry Firewall,Slackware-based,"A firewall, server, or "
+196,Slackintosh,Slackware-based,An unofficial port of Slackware to the 
+197,Slax,Slackware-based,A 
+198,SuperGamer,Slackware-based,A 
+199,Topologilinux,Slackware-based,Designed to run from within 
+200,VectorLinux,Slackware-based,"A lightweight Linux distribution designed to be easy to use even for new users. Generally considered well-suited for older hardware.
+"
+201,Zenwalk,Slackware-based,"Originally a minimal version of Slackware, Zenwalk has evolved into a very different operating system; however, compatibility with Slackware is still maintained.
+"
+202,ZipSlack,Slackware-based,"A lightweight and portable version of Slackware
+"
+203,DNALinux,Slax-based,A small Linux distribution designed for running 
+204,Porteus,Slax-based,"A small Linux distro based on Sector
+"
+205,Linux From Scratch,Source based,A distribution and book on how to build GNU/Linux from its 
+206,GNU Guix System,Source based,A distribution built around the 
+207,NixOS,Source based,Declarative Linux distribution with atomic upgrades and rollbacks built on top of 
+208,Source Mage,Source based,"A source code-based Linux distribution, descended from "
+209,T2 SDE,Source based,"A System Development Environment for building a Linux distribution.
+"
+210,Void Linux,Source based,"Void is a general purpose operating system, based on the monolithic Linux kernel. Its package system allows you to quickly install, update and remove software; software is provided in binary packages or can be built directly from sources with the help of the XBPS source packages collection.
+"
+211,Guix System Distribution,Rollback,Declarative Linux distribution with atomic upgrades and rollbacks built on top of the 
+212,Nitix,Rollback,"Developed by Net Integration Technologies Inc., Nitix claims to be the first "
+213,NixOS,Rollback,Declarative Linux distribution with atomic upgrades and rollbacks built on top of the 
+214,Android,Mobile device,Android is a mobile operating system bought and currently being developed by 
+215,CyanogenMod,Mobile device,"A discontinued open-source operating system for mobile devices, based on the "
+216,Fire OS,Mobile device,An 
+217,Firefox OS,Mobile device,"A discontinued open-source operating system – made for smartphones, tablet computers and smart TVs – designed by "
+218,Jlime,Mobile device,Linux distribution for the 
+219,KaiOS,Mobile device,A mobile operating system based on 
+220,LineageOS,Mobile device,A 
+221,MeeGo,Mobile device,A discontinued 
+222,postmarketOS,Mobile device,"A security-oriented, lightweight distribution for mobile devices.
+"
+223,Replicant,Mobile device,A free operating system (OS) based on the 
+224,Sailfish OS,Mobile device,A 
+225,Tizen,Mobile device,A Linux-based mobile operating system backed by 
+226,DD-WRT,Router,"Embedded firewall Linux distribution
+"
+227,fli4l,Router,A router and firewall Linux distribution
+228,Linux Router Project,Router,"Embedded networking appliance progenitor (defunct).
+"
+229,OpenWrt,Router,"A router and firewall Linux distribution, also other "
+230,SmoothWall,Router,"A router and firewall Linux distribution
+"
+231,ELinOS,Embedded systems,Linux distribution for 
+232,MontaVista Linux,Embedded systems,Embedded
+233,Prevas Industrial Linux,Embedded systems,Embedded systems customizable Linux distribution by 
+234,Puppy Linux,Minimalist,"A mini Linux distribution which runs well under low-end PCs – even under 32 MB RAM.
+"
+235,SliTaz,Minimalist,"With less than 40 MB a very small Live-Distribution, which uses 256 MB RAM (or with a special edition only 24 MB"
+236,Tinfoil Hat Linux,Minimalist,"Bootable floppy Linux distribution focusing on extreme security
+"
+237,Tiny Core Linux,Minimalist,"Tiny Core Linux is a minimalist (around 10 MB) Linux system focusing on providing a base system with BusyBox, FLTK and other minimalist software.
+"
+238,tomsrtbt,Minimalist,"Root boot from floppy disk. Last update May 2002.
+"
+239,MCC Interim Linux,Historical,"Possibly the first Linux distribution, created by the Manchester Computing Centre in February 1992
+"
+240,MkLinux,Historical,A legacy Linux distribution for 
+241,rPath,Historical,A distribution built around the 
+242,Smallfoot,Historical,"Developed by the Santa Cruz Operation (SCO UNIX / SCO Group), formerly "
+243,Softlanding Linux System,Historical,"One of the earliest Linux distributions, developed from 1992–1994; "
+244,Yggdrasil Linux/GNU/X,Historical,"One of the oldest Linux distributions (December 1992), not updated since 1995.
+"
+245,Alpine Linux,Security-oriented,"A security-oriented, lightweight Linux distribution based on "
+246,Lightweight Portable Security,Security-oriented,A 
+247,GeeXboX,Entertainment,Live CD
+248,PS2 Linux,Entertainment,Sony Computer Entertainment
+249,Billix,Not categorized,"A live CD or live USB system administration toolkit and multi-boot distribution with the ability to install any of the included distributions.
+"
+250,Clear Linux OS,Not categorized,Clear Linux OS is 
+251,CRUX,Not categorized,"CRUX is a lightweight, "
+252,Dragora GNU/Linux-Libre,Not categorized,A Linux distribution written entirely from scratch
+253,Foresight Linux,Not categorized,A 
+254,GoboLinux,Not categorized,An alternative Linux distribution which redefines the 
+255,paldo,Not categorized,"Independently developed desktop operating system and package manager (upkg) with a rolling release format and standard Gnome environment.
+"
+256,Solus,Not categorized,"Desktop Linux distribution offering Budgie, GNOME, MATE and KDE Plasma desktop environments, eopkg for package management.
+"
+257,Thinstation,Not categorized,"Thin client Linux distribution supporting all major connectivity protocols.
+"
