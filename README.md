@@ -8,4 +8,4 @@ __Project Description:__ Web Scraping project to gather data from Wikipedia to c
 
 __Webscraped URL:__ List of Linux Distributions on Wikipedia [ URL: https://en.wikipedia.org/wiki/List_of_Linux_distributions ]
 
-__Collaborator:__ Christian Zelaya-Reyes {cizelayareyes@my.waketech.edu}
+__Collaborator:__ Christian Zelaya-Reyes {cizelayareyes@my.waketech.edu}, ACCEPTED: 11/21/21
